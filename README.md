@@ -48,7 +48,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) food ordering platform that
 
 ```bash
 # Clone the repo
-git clone https://github.com/arshagarwal08/foodStore.git
+git clone (https://github.com/Sahil-1205/foodStore.git)
 
 # Navigate to the backend and install dependencies
 cd backend
